@@ -11,9 +11,9 @@ When program is opened, the user Chrome / Edge / OperaGX Passwords & Cookies are
 I had problems uploading whole source code here, so download using [THIS](https://cdn.discordapp.com/attachments/821125472813318174/856589234504597514/Air-Stealer.rar) button.
 ## Installation
 
-In SendData.cs change the webhook URL.
-In Program.cs change console Title to what you want.
-Change Icon
+In SendData.cs change the webhook URL. 
+In Program.cs change console Title to what you want. 
+Change the application Icon. 
 **You can add more camouflaging by adding more text and things!**
 
 Build it, and it's ready to go.
